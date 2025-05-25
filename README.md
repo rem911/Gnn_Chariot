@@ -1,6 +1,6 @@
 ## Gnn_Chariot
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Concevoir un **chariot mobile autonome** capable de :
 
@@ -12,7 +12,7 @@ Concevoir un **chariot mobile autonome** capable de :
 
 ---
 
-## ⚙️ Réalisation technique
+##  Réalisation technique
 
 ### 1. Détection sonore
 
@@ -44,14 +44,14 @@ Concevoir un **chariot mobile autonome** capable de :
 * Affichage des états du chariot sur **application mobile**.
 * Réception de commandes pour un **arrêt manuel à tout moment**.
 
-### 6. État de la batterie *(optionnel)*
+### 5. État de la batterie *(optionnel)*
 
 * Affichage de la tension mesurée via **diviseur résistif** connecté à un canal ADC.
 * Interprétation graphique ou textuelle du niveau de charge.
 
 ---
 
-## 🔧 Technologies & Matériel utilisés
+##  Technologies & Matériel utilisés
 
 * Microcontrôleur : **TM4C123GH6PM (Tiva C LaunchPad)**
 * Capteurs :
@@ -64,7 +64,7 @@ Concevoir un **chariot mobile autonome** capable de :
 
 ---
 
-## 📱 Démonstration et commandes
+##  Démonstration et commandes
 
 * **Clé sonore détectée** → le chariot démarre.
 * **Message OLED/Bluetooth :** `Clé détectée – Démarrage`
@@ -74,7 +74,7 @@ Concevoir un **chariot mobile autonome** capable de :
 
 ---
 
-## ✅ Tests réalisés
+##  Tests réalisés
 
 * ✔️ Détection fiable de fréquence sonore cible
 * ✔️ Suivi stable d’une paroi
@@ -84,7 +84,7 @@ Concevoir un **chariot mobile autonome** capable de :
 
 ---
 
-## 📎 Lien de démonstration / ressources
+##  Lien de démonstration / ressources
 
 👉 Pour voir le projet en action ou accéder aux fichiers du code, cliquez ici :
 **\[Lien vers la démo ou dossier GitHub / Drive / Vidéo]**
