@@ -90,5 +90,3 @@ Concevoir un **chariot mobile autonome** capable de :
 **\[Lien vers la démo ou dossier GitHub / Drive / Vidéo]**
 
 ---
-
-Souhaitez-vous que je vous génère aussi un fichier `README.md` prêt à copier-coller dans un dépôt GitHub ?
