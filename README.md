@@ -84,9 +84,13 @@ Concevoir un **chariot mobile autonome** capable de :
 
 ---
 
-##  Lien de démonstration / ressources
+## resultat final et démonstration 
+<p align="center">
+  <img src="chario_final.png" alt="Chariot_final" width="300">
+</p>
+ [Télécharger la vidéo de démonstration](Demo.mp4)
 
-👉 Pour voir le projet en action ou accéder aux fichiers du code, cliquez ici :
-![Aperçu](chario_final.png)
+[![Vidéo de démonstration](chariot_final.png)](Demo.mp4)
+
 
 ---
