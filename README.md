@@ -87,6 +87,6 @@ Concevoir un **chariot mobile autonome** capable de :
 ##  Lien de démonstration / ressources
 
 👉 Pour voir le projet en action ou accéder aux fichiers du code, cliquez ici :
-**\[Lien vers la démo ou dossier GitHub / Drive / Vidéo]**
+![Aperçu](Illustration_fyc.png)
 
 ---
