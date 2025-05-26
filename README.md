@@ -88,9 +88,9 @@ Concevoir un **chariot mobile autonome** capable de :
 <p align="center">
   <img src="chario_final.png" alt="Chariot_final" width="300">
 </p>
- [Télécharger la vidéo de démonstration](Demo.mp4)
 
-[![Vidéo de démonstration](chariot_final.png)](Demo.mp4)
+ci-après la demonstration de fonctionnement: 
+[![Vidéo de la Demo](chariot_final.png)](Demo.mp4)
 
 
 ---
